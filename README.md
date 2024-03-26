@@ -1,7 +1,7 @@
 ![js](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![js](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?color=BDBDC8&height=높이&section=header&text=About Me&fontSize=20" />
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=About%20Me&fontSize=90)
 
 <!--
 **Junsu0213/Junsu0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
