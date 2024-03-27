@@ -2,10 +2,20 @@
 ![js](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### About Me
-* B.S. in <code>Biomedical Engineering</code> (BME), <code>Yonsei University</code>
-* M.S. in <code>Brain & Cognitive Engineering</code>, <code>Korea University</code>
-* interests: Brain-computer interface (BCI), Self-supervised learning, Multi-modal learning
+* M.S. in <code>Brain & Cognitive Engineering</code>, <code>Korea University</code>,  <code>2022.03-2024.02 </code>
+* B.S. in <code>Biomedical Engineering</code> (BME), <code>Yonsei University</code>,  <code>2016.03-2022.02 </code>
 
+### Research Interests
+*	Multimodal, trustworthy, and continual artificial intelligence for clinical decision support
+* Brain-computer interface (BCI)
+* Self-supervised learning, Multi-modal learning
+
+### Project Experiences
+* 
+
+### Papers
+* **Jun-Su Park**, Donghyeok Jo, Seho Lee, Young-Tak Kim, Jung Bin Kim & Dong-Joo Kim. "Novel Biomarker Based on Hemispheric Differences in Brain Connectivity for Diagnosis of Depression." *2022 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)*. IEEE, 2022.
+* Hayom Kim, In-Nea Wang, **Jun-Su Park**, Keun-Tae Kim, Jooheon Kong, Jung Bin Kim & Dong-Joo Kim. "Inherent seizure susceptibility in patients with antihistamine-induced acute symptomatic seizure: a resting-state EEG analysis." *Scientific Reports* 13.1 (2023): 9146.
 
 <!--
 **Junsu0213/Junsu0213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
