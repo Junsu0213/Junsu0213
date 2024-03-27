@@ -2,8 +2,8 @@
 ![js](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### About Me
-* M.S. in <code>Brain & Cognitive Engineering</code>, <code>Korea University</code>, <code>2022-2024</code>
-* B.S. in <code>Biomedical Engineering</code> (BME), <code>Yonsei University</code>, <code>2016-2022</code>
+* M.S. in <code>Brain & Cognitive Engineering</code>, <code>Korea University</code>, <code>(2022-2024)</code>
+* B.S. in <code>Biomedical Engineering</code> (BME), <code>Yonsei University</code>, <code>(2016-2022)</code>
 
 ### Research Interests
 *	Multimodal, trustworthy, and continual artificial intelligence for clinical decision support
@@ -11,7 +11,7 @@
 * Self-supervised learning, Multi-modal learning
 
 ### Project Experiences
-* <code>(2022 - 2023)</code> Development of a real-time EEG classification model for integrated wheelchair-robotic arm control 
+* <code>(2022-2024)</code> Development of a real-time EEG classification model for integrated wheelchair-robotic arm control 
 * <code>(2023)</code> Development of diverse EEG feature-based classification models for diagnosing depression and normal individuals 
 * <code>(2023)</code> Development of an analysis pipeline to compare EEG differences before and after VNS 
 * <code>(2022)</code> Development of EEG functional connectivity-based biomarkers for diagnosing depression and normal individuals 
