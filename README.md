@@ -2,8 +2,8 @@
 ![js](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### About Me
-* M.S. in <code>Brain & Cognitive Engineering</code>, <code>Korea University</code>,  <code>2022.03-2024.02 </code>
-* B.S. in <code>Biomedical Engineering</code> (BME), <code>Yonsei University</code>,  <code>2016.03-2022.02 </code>
+* M.S. in <code>Brain & Cognitive Engineering</code>, <code>Korea University</code>, <code>2022-2024</code>
+* B.S. in <code>Biomedical Engineering</code> (BME), <code>Yonsei University</code>, <code>2016-2022</code>
 
 ### Research Interests
 *	Multimodal, trustworthy, and continual artificial intelligence for clinical decision support
@@ -11,12 +11,10 @@
 * Self-supervised learning, Multi-modal learning
 
 ### Project Experiences
-* Development of a real-time EEG classification model for integrated wheelchair-robotic arm control <code>(2022 - 2023)</code>
-* Development of diverse EEG feature-based classification models for diagnosing depression and normal individuals <code>(2023)</code>
-* Development of an analysis pipeline to compare EEG differences before and after VNS <code>(2023)</code>
-* Development of EEG functional connectivity-based biomarkers for diagnosing depression and normal individuals <code>(2022)</code>
-* Development of an ML model for classifying patients with inherent seizure and normal individuals <code>(2022)</code>
-* Comparison of classification models for efficiently classifying RLS patients and normal individuals based on EEG <code>(2021)</code>
+* <code>(2022 - 2023)</code> Development of a real-time EEG classification model for integrated wheelchair-robotic arm control 
+* <code>(2023)</code> Development of diverse EEG feature-based classification models for diagnosing depression and normal individuals 
+* <code>(2023)</code> Development of an analysis pipeline to compare EEG differences before and after VNS 
+* <code>(2022)</code> Development of EEG functional connectivity-based biomarkers for diagnosing depression and normal individuals 
 
 ### Papers
 * **Jun-Su Park**, Donghyeok Jo, Seho Lee, Young-Tak Kim, Jung Bin Kim & Dong-Joo Kim. "Novel Biomarker Based on Hemispheric Differences in Brain Connectivity for Diagnosis of Depression." *2022 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)*. IEEE, 2022.
