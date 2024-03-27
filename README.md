@@ -2,8 +2,8 @@
 ![js](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### About Me
-* B.S. in <mark>Biomedical Engineering</mark> (BME), <mark>Yonsei University</mark>
-* M.S. in <mark>Brain & Cognitive Engineering</mark>, <mark>Korea University</mark>
+* B.S. in <code>Biomedical Engineering</code> (BME), <code>Yonsei University</code>
+* M.S. in <code>Brain & Cognitive Engineering</code>, <code>Korea University</code>
 * interests: Brain-computer interface (BCI), Self-supervised learning, Multi-modal learning
 
 
