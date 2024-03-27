@@ -11,7 +11,12 @@
 * Self-supervised learning, Multi-modal learning
 
 ### Project Experiences
-* 
+* Development of a real-time EEG classification model for integrated wheelchair-robotic arm control <code>(2022 - 2023)</code>
+* Development of diverse EEG feature-based classification models for diagnosing depression and normal individuals <code>(2023)</code>
+* Development of an analysis pipeline to compare EEG differences before and after VNS <code>(2023)</code>
+* Development of EEG functional connectivity-based biomarkers for diagnosing depression and normal individuals <code>(2022)</code>
+* Development of an ML model for classifying patients with inherent seizure and normal individuals <code>(2022)</code>
+* Comparison of classification models for efficiently classifying RLS patients and normal individuals based on EEG <code>(2021)</code>
 
 ### Papers
 * **Jun-Su Park**, Donghyeok Jo, Seho Lee, Young-Tak Kim, Jung Bin Kim & Dong-Joo Kim. "Novel Biomarker Based on Hemispheric Differences in Brain Connectivity for Diagnosis of Depression." *2022 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)*. IEEE, 2022.
