@@ -3,6 +3,8 @@
 
 ### About Me
 * B.S. in BioMedical Engineering (BME), Yonsei University
+* M.S. in Brain & Cognitive Engineering, Korea University
+* interests: Brain-computer interface (BCI), Self-supervised learning, Multi-modal learning
 
 
 <!--
