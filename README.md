@@ -8,7 +8,7 @@
 ### Research Interests
 *	Multimodal, trustworthy, and continual artificial intelligence for clinical decision support
 * Brain-computer interface (BCI)
-* Self-supervised learning
+* Self-supervised learning (SSL)
 
 ### Project Experiences
 * <code>(2022-2024)</code> AR-based SSVEP real-time prediction for integrated wheelchair-robotic arm control 
