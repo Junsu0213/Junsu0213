@@ -8,7 +8,7 @@
 ### Research Interests
 *	Multimodal, trustworthy, and continual artificial intelligence for clinical decision support
 * Brain-computer interface (BCI)
-* Self-supervised learning, Multi-modal learning
+* Self-supervised learning
 
 ### Project Experiences
 * <code>(2022-2024)</code> Development of a real-time EEG classification model for integrated wheelchair-robotic arm control 
