@@ -11,10 +11,10 @@
 * Self-supervised learning
 
 ### Project Experiences
-* <code>(2022-2024)</code> Development of a real-time EEG classification model for integrated wheelchair-robotic arm control 
-* <code>(2023)</code> Development of diverse EEG feature-based classification models for diagnosing depression and normal individuals 
-* <code>(2023)</code> Development of an analysis pipeline to compare EEG differences before and after VNS 
-* <code>(2022)</code> Development of EEG functional connectivity-based biomarkers for diagnosing depression and normal individuals 
+* <code>(2022-2024)</code> AR-based SSVEP real-time prediction for integrated wheelchair-robotic arm control 
+* <code>(2023)</code> Classification of MDD and normal individuals based on EEG features
+* <code>(2023)</code> Pipeline for comparing EEG differences before and after VNS
+* <code>(2022)</code> EEG functional connectivity-based biomarker for diagnosing depression and normal individuals
 
 ### Papers
 * **Jun-Su Park**, Donghyeok Jo, Seho Lee, Young-Tak Kim, Jung Bin Kim & Dong-Joo Kim. "Novel Biomarker Based on Hemispheric Differences in Brain Connectivity for Diagnosis of Depression." *2022 IEEE International Conference on Consumer Electronics-Asia (ICCE-Asia)*. IEEE, 2022.
