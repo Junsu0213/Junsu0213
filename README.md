@@ -6,8 +6,8 @@
 * B.S. in <code>Biomedical Engineering</code> (BME), <code>Yonsei University</code>, <code>(2016-2022)</code>
 
 ### Research Interests
-*	Multimodal, trustworthy, and continual artificial intelligence for clinical decision support
 * Disease detection, classification, and segmentation using medical imaging data such as X-ray, CT, and MRI
+* Multimodal, trustworthy, and continual artificial intelligence for clinical decision support
 * Enhancing interpretability and reliability in diagnosis through Explainable AI (XAI)
 
 ### Project Experiences
